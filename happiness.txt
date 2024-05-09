@@ -1,0 +1,27 @@
+The following columns: 
+    GDP per Capita, 
+    Family, 
+    Life Expectancy, 
+    Freedom, 
+    Generosity, 
+    Trust Government Corruption 
+describe the extent to which these factors contribute in evaluating the happiness in each country.
+
+The Dystopia Residual metric actually is the Dystopia Happiness Score(1.85) + the Residual value or the unexplained value 
+for each country as stated in the previous answer.
+
+If you add all these factors up, you get the happiness score so it might be un-reliable to model them to predict Happiness Scores.
+
+
+
+
+
+Составители Всемирного доклада о счастье отслеживают 6 метрик — продолжительность жизни, экономику, социальную поддержку, отсутствие коррупции, свободу и щедрость.
+
+Вот что можно узнать, анализируя набор этих данных.
+    Какая страна самая счастливая в мире?
+    Какие факторы больше влияют на счастье страны?
+    Уровень счастья в мире растет или падает?
+
+Самые успешные дата-сайентисты, как правило, отличаются любопытством: они постоянно ищут связи и задают вопросы. 
+Проекты, подобные этому, помогают улучшить аналитическое мышление и отточить необходимые навыки.
